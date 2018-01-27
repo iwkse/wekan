@@ -44,6 +44,10 @@
     "add-attachment": "Lisää liite",
     "add-board": "Lisää taulu",
     "add-card": "Lisää kortti",
+<<<<<<< HEAD
+=======
+    "add-swimlane": "Lisää Swimlane",
+>>>>>>> Update translations.
     "add-checklist": "Lisää tarkistuslista",
     "add-checklist-item": "Lisää kohta tarkistuslistaan",
     "add-cover": "Lisää kansi",
@@ -94,6 +98,12 @@
     "boardChangeWatchPopup-title": "Muokkaa seuraamista",
     "boardMenuPopup-title": "Taulu valikko",
     "boards": "Taulut",
+<<<<<<< HEAD
+=======
+    "board-view": "Taulu näkymä",
+    "board-view-swimlanes": "Swimlanet",
+    "board-view-lists": "Listat",
+>>>>>>> Update translations.
     "bucket-example": "Kuten “Laatikko lista” esimerkiksi",
     "cancel": "Peruuta",
     "card-archived": "Tämä kortti on arkistoitu.",
@@ -346,7 +356,7 @@
     "overtime-hours": "Ylityö (tuntia)",
     "overtime": "Ylityö",
     "has-overtime-cards": "Sisältää ylityö kortteja",
-    "has-spenttime-cards": "Has spent time cards",
+    "has-spenttime-cards": "Sisältää käytetty aika kortteja",
     "time": "Aika",
     "title": "Otsikko",
     "tracking": "Ilmoitukset",
